@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         Question(R.string.question_americas, true),
         Question(R.string.question_asia, true)
     )
-
+//hahahah
     private var currentIndex = 0
 
     override fun onCreate(savedInstanceState: Bundle?) {
